@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<JavaTodoService>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "todo.Application",
+            "projectName": "JavaTodoService",
+            "args": ""
+        }
+    ]
+}
